@@ -1,0 +1,74 @@
+[
+    {
+      "title": "Pa k kieres saber eso jaja saludos",
+      "description": "Un meme que se hizo viral por la respuesta absurda de un joven a una pregunta.",
+      "author": "Unknown",
+      "tematica": "Absurd humor",
+      "rating": 4.7
+    },
+    {
+      "title": "Es de primero de...",
+      "description": "Un meme que se usa para indicar que algo es básico o fundamental.",
+      "author": "Unknown",
+      "tematica": "Popular knowledge",
+      "rating": 4.5
+    },
+    {
+      "title": "Se tenía que decir y se dijo",
+      "description": "Un pollito diciendo verdades incómodas.",
+      "author": "Unknown",
+      "tematica": "Opinion",
+      "rating": 4.8
+    },
+    {
+      "title": "El risitas y las paelleras",
+      "description": "Una anécdota contada por El Risitas sobre unas paelleras, famosa por sus risas contagiosas.",
+      "author": "El Risitas",
+      "tematica": "Comic anecdote",
+      "rating": 4.9
+    },
+    {
+      "title": "La que has liao pollito",
+      "description": "Una expresión utilizada para referirse a alguien que ha causado un problema o lío.",
+      "author": "Unknown",
+      "tematica": "Consequence",
+      "rating": 4.6,
+      "url": "https://i.imgur.com/YbJdDqn.jpg"
+    },
+    {
+      "title": "Pantomima Full",
+      "description": "Meme basado en los sketches de los humoristas de Pantomima Full.",
+      "author": "Pantomima Full",
+      "tematica": "Parody",
+      "rating": 4.7
+    },
+    {
+      "title": "Mi pana Miguel",
+      "description": "Meme popularizado por el vídeo de un loro diciendo 'Mi pana Miguel'.",
+      "author": "Unknown",
+      "tematica": "Animal humor",
+      "rating": 4.4
+    },
+    {
+      "title": "¿Pero esto qué es?",
+      "description": "Frase dicha por Matías Prats en un noticiero, utilizada para expresar sorpresa o incredulidad.",
+      "author": "Matías Prats",
+      "tematica": "Surprise",
+      "rating": 4.5
+    },
+    {
+      "title": "Calvo",
+      "description": "Un meme basado en una broma recurrente sobre la calvicie.",
+      "author": "Unknown",
+      "tematica": "Humor",
+      "rating": 4.3
+    },
+    {
+      "title": "Luisma",
+      "description": "Meme basado en el personaje Luisma de la serie 'Aída', conocido por su torpeza.",
+      "author": "Aída",
+      "tematica": "Television",
+      "rating": 4.6
+    }
+  ]
+  

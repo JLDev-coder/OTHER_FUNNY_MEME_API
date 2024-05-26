@@ -1,0 +1,66 @@
+[
+    {
+      "title": "Distracted Boyfriend",
+      "description": "A meme featuring a man looking at another woman while his girlfriend looks on in disapproval.",
+      "author": "Unknown",
+      "tematica": "Relationships",
+      "rating": 4.8
+    },
+    {
+      "title": "Mocking Spongebob",
+      "description": "A meme featuring Spongebob Squarepants imitating a mocking pose.",
+      "author": "Nickelodeon",
+      "tematica": "Sarcasm",
+      "rating": 4.5
+    },
+    {
+      "title": "Expanding Brain",
+      "description": "A meme series depicting a brain expanding in consciousness with each progressive image.",
+      "author": "Unknown",
+      "tematica": "Intelligence",
+      "rating": 4.7
+    },
+    {
+      "title": "Surprised Pikachu",
+      "description": "A meme showing Pikachu with a surprised expression, often used to express shock at an obvious outcome.",
+      "author": "The Pokemon Company",
+      "tematica": "Surprise",
+      "rating": 4.9
+    },
+    {
+      "title": "Two Buttons",
+      "description": "A meme featuring a man sweating as he has to choose between two pressing options.",
+      "author": "Unknown",
+      "tematica": "Decision Making",
+      "rating": 4.6
+    },
+    {
+      "title": "Woman Yelling at a Cat",
+      "description": "A meme combining an image of a woman yelling and a cat sitting at a dinner table.",
+      "author": "Unknown",
+      "tematica": "Conflict",
+      "rating": 4.8
+    },
+    {
+      "title": "Change My Mind",
+      "description": "A meme featuring a man sitting at a table with a sign that reads 'Change My Mind'.",
+      "author": "Steven Crowder",
+      "tematica": "Debate",
+      "rating": 4.4
+    },
+    {
+      "title": "Is This a Pigeon?",
+      "description": "A meme featuring a character from an anime mistaking a butterfly for a pigeon.",
+      "author": "Yu Yu Hakusho",
+      "tematica": "Mistaken Identity",
+      "rating": 4.5
+    },
+    {
+      "title": "Philosoraptor",
+      "description": "A meme featuring a dinosaur contemplating deep philosophical questions.",
+      "author": "Sam Smith",
+      "tematica": "Philosophy",
+      "rating": 4.3
+    }
+  ]
+  
